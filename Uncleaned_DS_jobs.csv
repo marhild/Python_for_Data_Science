@@ -1,23 +1,5 @@
 index,company_name,location,job_title,job_description,salary_estimate,rating,size,founded,type_of_ownership,industry,sector,revenue
-0,Radcube LLC,Remote,Data Scientist,"We are looking for a Data Scientist to analyze large amounts of raw information to find patterns that will help improve our company. We will rely on you to build data products to extract valuable business insights. In this role, you should be highly analytical with a knack for analysis, math and statistics. Critical thinking and problem-solving skills are essential for interpreting data. We want to see a passion for machine-learning and research. Your goal will be to help our company analyze trends to make better decisions.
-Responsibilities
-Identify valuable data sources and automate collection processes
-Undertake preprocessing of structured and unstructured data
-Analyze large amounts of information to discover trends and patterns
-Show More",$75.00 /hr (est.),-1,-1,-1,-1,-1,-1,-1
-1,Radcube LLC,Remote,Data Scientist,"We are looking for a Data Scientist to analyze large amounts of raw information to find patterns that will help improve our company. We will rely on you to build data products to extract valuable business insights. In this role, you should be highly analytical with a knack for analysis, math and statistics. Critical thinking and problem-solving skills are essential for interpreting data. We want to see a passion for machine-learning and research. Your goal will be to help our company analyze trends to make better decisions.
-Responsibilities
-Identify valuable data sources and automate collection processes
-Undertake preprocessing of structured and unstructured data
-Analyze large amounts of information to discover trends and patterns
-Show More",$75.00 /hr (est.),-1,-1,-1,-1,-1,-1,-1
-2,Radcube LLC,Remote,Data Scientist,"We are looking for a Data Scientist to analyze large amounts of raw information to find patterns that will help improve our company. We will rely on you to build data products to extract valuable business insights. In this role, you should be highly analytical with a knack for analysis, math and statistics. Critical thinking and problem-solving skills are essential for interpreting data. We want to see a passion for machine-learning and research. Your goal will be to help our company analyze trends to make better decisions.
-Responsibilities
-Identify valuable data sources and automate collection processes
-Undertake preprocessing of structured and unstructured data
-Analyze large amounts of information to discover trends and patterns
-Show More",$75.00 /hr (est.),-1,-1,-1,-1,-1,-1,-1
-3,"Envision
+0,"Envision
 5.0",Remote,Data Scientist - Intermediate,"What You Will Do:
 Design and prototype models based on statistical modeling, machine learning, and data mining in order to solve challenging analytics problems ranging from exploratory to highly applied
 Manipulate, transform, and analyze abstract data structures
@@ -31,17 +13,124 @@ Show More",Visit Envision Website,5.0,Unknown,"Type
 Company - Private","Type
 Company - Private",-1,-1,"Revenue
 Unknown / Non-Applicable"
-4,"Envision
-5.0",Remote,Data Scientist - Intermediate,"What You Will Do:
-Design and prototype models based on statistical modeling, machine learning, and data mining in order to solve challenging analytics problems ranging from exploratory to highly applied
-Manipulate, transform, and analyze abstract data structures
-Select and apply the most appropriate modeling techniques and data visualization for big data analysis
-Develop code to implement analysis workflows in a robust and reproducible fashion
-Assist with high-level analysis, design, and code reviews
-Basic Qualifications:
-Master in Statistics, Data Science, Math, Computer Science, Computational Statistics or other related quantitative discipline
+1,Amaze Systems Inc,Remote,Data Scientist,"Job Description:
+Python
+Machine learning
+Neural networks
+Data visualization
+Data wrangling
+· (clustering, decision tree learning, artificial neural networks, Deep Learning etc.) and their real-world advantages/drawbacks.
+· Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications.
+Show More",$57.50 /hr (est.),-1,Unknown,"Type
+Company - Public","Type
+Company - Public",-1,-1,"Revenue
+Unknown / Non-Applicable"
+2,"Comcentric
+4.6","Salem, OR",Data Scientist,"We are currently seeking a Senior Data Scientist for a full time, permanent position (remote).
+The Data Science team builds machine learning models that recommend best-match candidates for jobs. The team’s mission is to build the world’s best AI matchmaker that can connect all jobs with the right jobseekers.
+Responsibilities
+Build highly scalable and performant recommendation systems and technologies that can identify best matches between millions of jobs and millions of job seekers in real-time
+Experiment with POC ML model improvements, scale them to production, and run iterative AB experiments to improve our matching technology
 
-Show More",Visit Envision Website,5.0,Unknown,"Type
+
+
+
+
+
+
+
+
+
+Show More","$207,500 /yr (est.)",4.6,51 to 200 Employees,"Founded
+2003","Founded
+2003",IT Services,"Sector
+Information Technology","Type
+Company - Private"
+3,Rec Room,"Seattle, WA",Data Scientist,"Rec Room is the best place to build and play games together. Chat, hang out, explore MILLIONS of rooms, or build something new to share with us all! As a Senior Product Data Scientist at Rec Room, you will be responsible for a large strategic area and will use data to be an advocate for our players. Your insights into what users are doing on the platform will inform broader team strategy and impact their short and long-term roadmap. You'll be equal parts leader, investigator, and storyteller, shaping experiences towards delighting players and building a sustainable business.
+As we scale, Product Data Scientists will embed within individual teams, and as the Senior Product Data Scientist, you would be expected to drive product thinking at the broader team level and guide other data scientists as needed. You might be helping the econ team think through how to scale the buyer and builder ecosystem, or helping the growth team think through how to give users more reason to return to the app. You might also help the User Generated Content team think through how to enable creators to build the best products, or the social team how to make a player's experience more meaningful. The questions and potential for impact are huge.
+Show More","$147,500 /yr (est.)",-1,-1,-1,-1,-1,-1,-1
+4,Apollo Neuroscience,Remote,Data Scientist,"Apollo Neuroscience is pioneering new ways to empower people to live healthier lives by addressing the root of stress and anxiety: the nervous system. Balancing and calming the nervous system is essential to building resilience to stress. Originating from research in neuroscience and psychiatry at the University of Pittsburgh, Apollo Neuro, our debut product, is the first scientifically validated technology to improve the body’s resilience to stress. Unlike most other wearables, ours is not a biometric tracker; it is a wearable therapeutic that uses vibration to support the body’s recovery from stress.
+We launched in January 2020 and have since grown to about 50 employees, raised our Series A, and completed six clinical trials. We’re now looking to make further investments in product development across software and hardware to build a premium experience that is even more intuitive and delightful to use.
+Our company culture is built on a deep and genuine commitment to improving access to mental health. We’re a growing start-up, and empathy is our most important shared value. From that, we foster kindness and inclusion to create a respectful and friendly working environment. Our departments function collaboratively and intimately to build rapport and support individuals. We’re an entirely remote team, distributed worldwide with roots in Pittsburgh and the Bay Area.
+
+
+
+
+
+
+Show More",Visit Apollo Neuroscience Website,-1,1 to 50 Employees,"Type
 Company - Private","Type
 Company - Private",-1,-1,"Revenue
 Unknown / Non-Applicable"
+5,INNOVATIVE BI SOLUTIONS INC,Remote,Data Scientist,"Urgent!!
+Job Description
+Job Title: Data Scientist
+Location: Bellevue & Los Angeles
+Visa : GC & US Citizen
+Skills:
+SQL
+Python/R
+
+
+
+Show More",$45.00 /hr (est.),-1,-1,-1,-1,-1,-1,-1
+6,"Amazon.com Services LLC
+3.8",Remote,"Data Scientist, QuBIT","M.S. or equivalent in Statistics, Mathematics, Operations Research, Engineering, Computer Science, or related analytical disciplines.
+Deep understanding of regression modeling, forecasting techniques, time series analysis, machine-learning concepts such as supervised/unsupervised learning, in-depth knowledge of tree-based ensemble models, etc.
+Excellent in using statistical, visualization, and machine-learning tools and commercial packages
+Proficiency in using SQL as applied to big data: extraction, processing, filtering, and presenting large data quantities (100K to Millions of rows) via AWS technologies and data pipelines
+Excellent one or more scripting languages (e.g., Python, R, Java, C++, etc.)
+Ability to communicate technical concepts and solutions at a level appropriate for technical and non-technical audiences.
+Job summary
+Amazon's Quantitative Business Intelligence Tools (QuBIT) team is looking for motivated individuals with strong analytical and science skills to evolve one of the most complex supply-chain systems in the world.
+
+Amazon’s supply-chain comprises thousands of fixed infrastructure nodes with millions of possible connections between them. Billions of packages flow through this network on a yearly basis, making the impact of optimal improvements truly innovative. This job offers is a terrific opportunity to analyze Amazon data and understand, model, optimize, and reshape one of the world's most supply-chains.
+
+Your main focus will be on developing predictive models for critical planning entities; analyzing large amount of data to identify and evaluate opportunities to improve customer experience, network speed, cost and efficiency; and presenting the results to non-technical audience with the aid of visualization tools. You will leverage optimization approaches to evaluate trade-offs between potentially competing business objectives and improve decision-making. You will identify effective metrics to quantify the improvements resulting from the application of your developed tools.
+
+The ideal candidate will demonstrate deep understanding of statistical and machine learning concepts, technical skills for leveraging analytical tools to solve large scale problems, aptitude to remain abreast with data science related technologies and excitement to take iterative approaches to tackle long-term challenges. The successful candidate will have good communication skills and ability to speak at a level appropriate for the audience; will collaborate effectively with fellow scientists, data/software engineers, and product/program managers; and will deliver business value in a close partnership with many stakeholders from operations, finance and software-engineering.
+
+Key job responsibilities
+In this role, you'll be expected to work on well defined business problems related to Amazon Fulfillment Center Operations (labor planning, capacity planning, etc) and use the appropriate data science techniques to design and implement a workable solution for them. You'll also work alongside the product/program managers to define the success criteria for the solution and set up the appropriate tracking/reporting mechanisms.
+
+About the team
+The science team within QuBIT comprises 6 data scientists coming from a diverse background! Our mission is to continuously evolve our operations by developing robust and well-researched science solutions. Outside of constantly adding business value through those solutions, our team keeps abreast of evolving science field by learning new concepts and algorithms dedicatedly every week, and we share the knowledge across team members through monthly learning sessions!
+
+The base pay range for this position in Colorado is $ 119,300 - $160,000 a year; however, base pay offered may vary depending on job-related knowledge, skills, and experience. A sign-on bonus and restricted stock units may be provided as part of the compensation package, in addition to a full range of medical, financial, and/or other benefits, dependent on the position offered. This information is provided per the Colorado Equal Pay Act. Base pay information is based on market location. Applicants should apply via Amazon’s internal or external careers site.
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
+Show More","$139,650 /yr (est.)",3.8,10000+ Employees,"Founded
+1994","Founded
+1994",Internet,"Sector
+Information Technology","Type
+Company - Public"
+7,Highland Principals,Remote,Data Scientist,"This is a new role within the R&D organization. The Data Scientist will be
+responsible for working with the company stakeholders to analyze the existing data that is being collected, build out a roadmap of potential ideas where could utilize the data, and develop an overall data mining strategy. They must have strong experience using a variety of data mining/data analysis methods, using a variety of data tools, building and implementing models, using/creating algorithms and creating/running simulations. Currently data is in an unstructured format and it will be up to the Data Scientist to determine the best way forward in utilizing the data.
+Responsibilities
+Work with stakeholders throughout the organization to identify opportunities for
+leveraging company data to drive business solutions.
+
+
+Show More",$85.00 /hr (est.),-1,Unknown,"Type
+Company - Public","Type
+Company - Public",-1,-1,"Revenue
+Unknown / Non-Applicable"
+8,Wintegrity,Remote,Data Scientist/Analyst,"Position: Data Scientist - Alteryx Exp Mandatory
+Location: Dearborn, MI
+Duration: Long Term Contract
+Position Type: W2 & 1099 & C2C
+Must Have: Alteryx Experience
+Job Description
+You will be responsible for providing the data and analytics support for enterprise data integration tasks, including ingestion, standardization, enrichment, mastering and assembly of data products for downstream applications.
+Show More",$57.50 /hr (est.),-1,Unknown,"Type
+Company - Public","Type
+Company - Public",-1,-1,"Revenue
+Unknown / Non-Applicable"
+9,Weir Motion Metrics,Remote,Data Annotator,"Weir Motion Metrics is a Canadian mining technology division that enables a new generation of safe, smart, and sustainable mining. Based in Vancouver, B.C., the company joined forces with Weir, one of the world’s leading engineering businesses, to empower mines by developing and deploying advanced monitoring solutions that address the industry’s toughest challenges.
+We are looking for a Data Annotator in our AI Research Department - Image Labelling Team.
+Responsibilities
+Communicate effectively with team leads to acquire and understand the requirements for data
+annotation
+Use software applications and good visual judgment to select frames from videos, and highlight
+
+Show More","$43,000 /yr (est.)",-1,-1,-1,-1,-1,-1,-1
